@@ -1,7 +1,6 @@
 # Udacity - Advanced Data Analysis
 
-✨ This repo contains my projects for my **Udacity - Advanced Data Analysis**
-You can find my certificate [here](https://graduation.udacity.com/confirm/EHVZZZTU).
+✨ This repo contains my projects for my **Udacity - Advanced Data Analysis**. You can find my certificate [here](https://graduation.udacity.com/confirm/EHVZZZTU).
 
 ## Project 1: Investigate a Dataset
 In this project, I have gone through the data analysis process and saw how everything fits together. I have used the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
