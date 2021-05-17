@@ -1,6 +1,6 @@
 # Udacity - Advanced Data Analysis
 
-✨ This repo contains my projects for my **Udacity - Advanced Data Analysis**. You can find my certificate [here](https://graduation.udacity.com/confirm/EHVZZZTU).
+✨ This repo contains my projects for **Udacity - Advanced Data Analysis**. You can find my certificate [here](https://graduation.udacity.com/confirm/EHVZZZTU).
 
 ## Projects
 ### Project 1: Investigate a Dataset
